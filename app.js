@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 //to make a random number guessing game
 const randomNumber = Math.floor(Math.random() * 6 + 1);
