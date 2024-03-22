@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import { getUnpackedSettings } from "http2";
 import inquirer from "inquirer"
 
